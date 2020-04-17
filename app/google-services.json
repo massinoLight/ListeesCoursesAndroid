@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448094228393",
+    "firebase_url": "https://liste-des-courses-bccd3.firebaseio.com",
+    "project_id": "liste-des-courses-bccd3",
+    "storage_bucket": "liste-des-courses-bccd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448094228393:android:aadf49da02e6a736c3feb8",
+        "android_client_info": {
+          "package_name": "com.massino.listedescourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448094228393-e92ggkfqgt7gavpg12otpupb6moh3brm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.massino.listedescourse",
+            "certificate_hash": "24c0fd0438dd6f8339b7ad2bcc84e3961e21dac1"
+          }
+        },
+        {
+          "client_id": "448094228393-b3b6jekpntnifqtjvifj26ci80skau3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhVKe3M7j4fxlIn6hnOMCOIr6SE2wFQrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448094228393-b3b6jekpntnifqtjvifj26ci80skau3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

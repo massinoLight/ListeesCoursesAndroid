@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListeDesCourse</string>
+    <string name="facebook_application_id">223030332122728</string>
+    <string name="fb_login_protocol_scheme">fb223030332122728</string>
+    <string name="facebook_app_name">liste des courses</string>
+
+
+
+</resources>
